@@ -1,3 +1,0 @@
-# bootcampPAIAIC
-BOOTCAMP 2020 by PIAIC
-30-05-2020 -Lecture 1
